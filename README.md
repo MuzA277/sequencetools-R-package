@@ -28,7 +28,7 @@ devtools::install_github('muzaffarabdullaev/sequencetools')
 ```
 
 ## Status and Contribution
-This package is currently under early stage development and suited to my needs.  
+This package is currently under early stage development. 
   
 ⭐ Contribution is highly welcome! ⭐  
   
