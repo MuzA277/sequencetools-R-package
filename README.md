@@ -2,7 +2,7 @@
 
 An R package for processing genetic code and seqeuence data
 
-- `sequencetools` includes several tools for DNA and RNA sequence manipulation:  
+`sequencetools` includes several tools for DNA and RNA sequence manipulation:  
 - `seqcheck()` - The type of nucleic acid that a given sequence corresponds to.
 - `seqcomplement()` - The complementary or reverse complementary sequence of an input sequence.
 - `seqcomposition()` - The composition of a given sequence (percentage of a specific base or GC-content).
