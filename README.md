@@ -33,3 +33,7 @@ This package is currently under early stage development.
 ⭐ Contribution is highly welcome! ⭐  
   
 If there are problems with the package, feel free to let me know!
+
+## Code of Conduct
+Users and Contributors should read the "CODE_OF_CONDUCT.md" file before posting feedback/changes to the repo.  
+Thank you!
