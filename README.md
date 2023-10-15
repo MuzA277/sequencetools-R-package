@@ -21,7 +21,7 @@ install.packages("remotes")
 remotes::install_github('muzaffarabdullaev/sequencetools')
 ```
 
-Alternatively, install from github using:
+Alternatively, install using:
 ```r
 install.packages("devtools")
 devtools::install_github('muzaffarabdullaev/sequencetools')
