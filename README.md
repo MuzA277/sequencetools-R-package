@@ -11,8 +11,10 @@ An R package for processing genetic code and seqeuence data
 - `seqsummary()` - A summary of the type, length, and composition of a given sequence.
 - `seqtranscribe()` - The transcribed version of a given sequence (DNA -> RNA or RNA -> DNA)
 - `seqtranslate()` - The primary amino structure of a given RNA sequence (1-letter or 3-letter code)  
-    
-    
+
+$${\color{red}Note: \space More \space Functions \space Coming \space Soon!!}$$
+
+
 ## Installation
 
 `sequencetools` can be installed from github using:
